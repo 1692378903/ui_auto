@@ -2,7 +2,6 @@
 # 作者：测试蔡坨坨
 # 时间：2021/8/24 0:19
 # 功能：批量执行测试用例，并生成Allure测试报告
-
 import os
 import pytest
 
